@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Segoe UI", Roboto, sans-serif;
+  margin: 0;
+  background: #f4f7fb;
+  color: #000000;
+}
+header {
+  background: linear-gradient(120deg, #f4cc08, #ebf1b5);
+  color: #000000;
+  padding: 60px 20px;
+  text-align: center;
+  margin: 0 auto;
+}
+.car {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  background: #f8f7e0;
+  border-radius: 3px;
+  padding: 25px;
+  margin-bottom: 25px;
+  align-items: center;
+
+ }
+section h2 {
+  margin-top: 0;
+  color: #000000;}
+footer {
+  padding: 25px;
+  text-align: center;
+  background: #f4f7fb;
+  font-size: 1rem;
+
+}
